@@ -105,6 +105,13 @@ h2 {
     background: #e4e4e1;
 }
 
+.collection img {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    display: block;
+}
+
 article h3 {
     margin-top: 20px;
     font-size: 16px;
